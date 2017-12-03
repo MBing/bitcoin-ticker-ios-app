@@ -5,6 +5,11 @@ Beginner: Download the starter project files as .zip and extract the files to yo
 
 Pro: Git clone to your Xcode projects folder.
 
+## Start:
+- Open the workspace file
+- Run `pod install` on your system (requires Cocoapods to be installed on your system)
+- Build the project and run on your device or simulator
+
 ## Finished App
 ![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
 
